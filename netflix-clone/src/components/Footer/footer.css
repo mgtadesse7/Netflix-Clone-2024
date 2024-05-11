@@ -42,3 +42,8 @@
     font-style: 12px;
     margin-bottom: 10px;
 }
+.footer_links:hover {
+  text-decoration: underline; 
+  color: grey;
+
+}

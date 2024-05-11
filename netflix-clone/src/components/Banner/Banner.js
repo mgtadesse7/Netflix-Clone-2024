@@ -51,3 +51,45 @@ const Banner = () => {
 };
 
 export default Banner;
+
+
+// @media screen and (max-width:768px) {
+//      .browse{
+//         display: block
+//     }
+//     .center  ul li a{
+//         display: block;
+//         margin:40px 0 ;
+//     }
+//     .checkbtn #bars{
+//         display: block;
+//     }
+//     .center ul li a{
+//         background-color: rgb(6, 6, 6);
+//         position: fixed;
+//         text-align: center;
+//         width: 75%;
+//         height: 20vh;
+//         right: -120%;
+//         margin-left: 0;
+//         transition: all 0.3s;
+//         font-size: 20px;
+//         padding: 20px;
+//     }
+   
+//     #check:checked~ ul li a{
+//         right:0
+//     }
+    
+//     #check:checked~ label #bars{
+//         display: none;
+//     } 
+//     #check:checked ~ label #cancle{
+// display: block;    
+// } 
+// }
+//             <input type="checkbox" id="check"/>
+//             <label htmlFor="check" class="checkbtn">
+//             <i className="fas fa-angle-down" id="bars"> </i>
+//             <i className="fas fa-angle-up" id="cancle"></i>  
+//         </label>

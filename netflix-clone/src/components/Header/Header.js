@@ -1,7 +1,7 @@
-import React from 'react'
-import "./header.css"
-import Netflixlogo from "../../assets/images/netflix-logo.jpeg"
-import SearchIcon from '@mui/icons-material/Search';
+import React from "react";
+import "./header.css";
+import Netflixlogo from "../../assets/images/NetflixLogo (2).png";
+import SearchIcon from "@mui/icons-material/Search";
 import NotificationsNoneIcon from "@mui/icons-material/NotificationsNone";
 import AccountBoxIcon from "@mui/icons-material/AccountBox";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
